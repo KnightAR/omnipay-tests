@@ -33,7 +33,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "2.0.x-dev",
+            "dev-updatephpunit" : "2.2.0-dev"
         }
     }
 }
